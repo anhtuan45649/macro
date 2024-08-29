@@ -1,0 +1,1 @@
+start "" chrome "https://www.sextoyeu.com/"
